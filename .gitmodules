@@ -1,0 +1,6 @@
+[submodule "remoteDesktop"]
+	path = remoteDesktop
+	url = https://github.com/juanromero2719/remoteDesktop.git
+[submodule "monitorTa"]
+	path = monitorTa
+	url = https://github.com/juanromero2719/MonitorTA.git
